@@ -1,0 +1,1 @@
+# All your our project starts here. Blueprints, extensions, commands and all other fancy stuff will be defined in their own modules. But all those components will be hooked up together here.
